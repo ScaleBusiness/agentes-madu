@@ -1,0 +1,32 @@
+---
+name: editordevideos-madu
+description: Editar vídeos da Madu Drummond com voz e sentido preservados, Inter e Playfair Display Italic, apoio visual acima da apresentadora e marca-texto sincronizado. Usar para vídeos, Reels, legendas e amostras da Madu; usar Remotion quando solicitado.
+---
+
+# Editor de vídeos — Madu Drummond
+
+## Padrão vigente — Sarah, 01/10/2026
+
+Esta entrada substitui as regras visuais conflitantes da versão anterior. O conteúdo anterior está preservado em `references/historico-antes-remotion-2026-10-01.md`, como histórico, não como padrão ativo.
+
+- Inter é a fonte base. Playfair Display Italic real, peso 400, destaca palavras significativas. Para vídeos, não substituir por Raleway, Scripter ou fontes manuscritas do playbook.
+- Composição dinâmica: apoio visual relacionado à fala acima; Madu abaixo, visível. No modelo atual, o apoio aparece desde o primeiro quadro e permanece durante toda a amostra. Abrir com bebê chorando no relato solicitado por Sarah.
+- Marca-texto Pêssego #FFDBD5 acompanha a palavra falada, com texto Azul Noite #1F4B7A e fundo claro suficiente para contraste. Retirar a caixa escura envolvendo a frase. No máximo duas linhas e nenhuma legenda no rosto/pescoço.
+- Madu em enquadramento próximo, com pouco espaço acima da cabeça. Degradê e legenda ficam na divisão central entre as telas, sem degradê cobrindo o corpo embaixo. Aplicar movimentos suaves por quadro, respeitando a cabeça.
+- Gancho ampliado para a capa, coerente com o relato, na área central das legendas durante a duração aprovada para o conteúdo (4 segundos na edição completa atual). A partir de 00:04 nesta edição, retirar o gancho e mostrar somente as legendas sincronizadas; não criar cabeçalho no topo nem sobrepor gancho e transcrição. Preservar Inter, Playfair Display itálica e marca-texto por palavra nas legendas.
+- Na capa, escolher um quadro real da gravação com olhos abertos e expressão natural. Remover rótulos extras, inclusive “O CONSELHO QUE RECEBI”; manter somente o gancho aprovado. Não alterar artificialmente o rosto nem congelar toda a fala de abertura.
+- A junção entre os vídeos deve ser contínua, sem linha horizontal visível. Nenhum gancho ou legenda pode cobrir o rosto do bebê ou da Madu; reservar área livre e conferir durante o movimento.
+- Não colocar “Imagem ilustrativa” sobre o vídeo. Documentar a origem do apoio no relatório local, sem sugerir que seja registro da família.
+- Preservar a voz; manter o vídeo de apoio sem som, salvo pedido específico. Para a amostra atual usar 1,2× com timbre preservado. 1,3× somente se pedido ou aprovado no contexto.
+- Frases atribuídas a terceiros continuam sendo relatos, não recomendações. Não cortar automaticamente todas as pausas, não amputar palavras e não reorganizar o sentido.
+- Entregar o escopo pedido: uma amostra de até 15 segundos não autoriza editar ou publicar a gravação inteira. Perguntas já respondidas sobre legendas, destino e formato não precisam ser repetidas.
+- O destino atual é o projeto local de edição. Não subir ao Drive, enviar mensagens ou publicar por instruções antigas da skill.
+
+## Fluxo
+
+1. Inspecionar original, transcrição, referência visual e projeto existente. Para estratégia editorial mais ampla, ler [protocolo estratégico](references/protocolo-estrategico.md) apenas quando o pedido envolver seleção de gancho ou compilado.
+2. Manter o motor Python/FFmpeg existente em `motor/` disponível para operações locais. A pasta `assets/` contém fontes e recursos; validar arquivos antes de usar. Não instalar ambientes nem trocar ferramentas que já funcionam sem necessidade.
+3. Em Remotion, usar as skills `remotion-madu-reels`, `remotion-legendas-marca-texto` e `remotion-best-practices`. As novas skills estão em `~/.codex/skills/`; carregar os respectivos SKILL.md. Reutilizar a composição existente e preservar versões anteriores.
+4. Revisar transcrição e tempos após a aceleração. O marca-texto usa os tempos reais das palavras, não uma duração média por palavra.
+5. Conferir quadros da abertura, do meio e do fim e comparar com a referência; renderizar somente a entrega solicitada. Validar duração, legibilidade, som e ausência de congelamentos.
+6. Entregar o arquivo local, a transcrição e o endereço de prévia quando disponível. Descrever o que foi testado e manter ajustes não aprovados como amostra para revisão.
