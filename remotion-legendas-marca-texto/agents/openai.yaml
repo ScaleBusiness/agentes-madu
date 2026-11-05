@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion — Legendas com marca-texto"
+  short_description: "Legendas com destaque palavra por palavra no Remotion"
+  default_prompt: "Use $remotion-legendas-marca-texto para sincronizar o destaque pêssego com a fala."

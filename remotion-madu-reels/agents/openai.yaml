@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion — Vídeos da Madu"
+  short_description: "Composição dividida e movimento para vídeos da Madu"
+  default_prompt: "Use $remotion-madu-reels para editar uma amostra da Madu com apoio visual acima dela."

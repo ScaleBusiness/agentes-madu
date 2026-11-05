@@ -1,0 +1,22 @@
+# Direção visual de vídeo — 01/10/2026
+
+Referência estrutural enviada: `/Users/sarahbrandao/Downloads/dr.jorgecavalcanti_Dd4CCRtRnwt.mp4`. A abertura combina imagem de apoio acima e apresentador abaixo, com legendas curtas e mudanças de escala. Sarah ampliou a regra: nos vídeos da Madu, manter o apoio acima durante todo o trecho. Não copiar o conteúdo, as cores amarelas nem a tipografia do vídeo de referência.
+
+Referência de marca: `/Users/sarahbrandao/escritorioscalebusiness/produtos/mentoria-individual/Madu Drummond/Playbook visual/Playbook Visual - Madu Drummond.pdf`.
+Cores: Azul Noite #1F4B7A; Céu #AEDDED; Névoa #EEF6FB; Pêssego #FFDBD5. O print enviado por Sarah em 01/10 às 21:01 mostra texto azul sobre fundo claro, com marca-texto pêssego por trás de palavras. Aplicar o destaque à fala, sem uma pílula escura para toda a legenda.
+
+Base de composição em 1080 × 1920 (ajustar após inspecionar o rosto):
+- Correção posterior de Sarah em 01/10: o degradê deve ficar na divisão central, Madu precisa aparecer mais próxima e o rótulo “Imagem ilustrativa” deve sair. Incluir gancho visual; preservar o estilo de legenda aprovado.
+- Correção das 21:42: nenhuma linha visível na junção e nenhum texto sobre o rosto do bebê. Preservar o estilo de legendas aprovado.
+- V6: desvanecer as próprias imagens com máscaras de transparência sobre #EEF6FB. O apoio termina visualmente em y=810; a imagem de Madu entra suavemente de y=800 a y=950. Não há borda física visível em y=920.
+- Ajuste de contraste solicitado em 02/10: na edição completa, o degradê superior passa de y=585 a y=705; em y=705 o fundo já está completamente claro, cobrindo toda a frase “Deixe seu bebê”. Preservar a máscara inferior, as fontes e o posicionamento dos textos.
+- Decisão final de Sarah para o vídeo completo: apoio ocupa o topo inteiro desde a abertura; gancho “Deixe seu bebê chorar até dormir” na área central por 4 segundos (quadros 0–119). As legendas começam em 00:04, sincronizadas à fala editada. Preservar a explicação de que esse foi um conselho recebido e do trauma relatado.
+- Para destaque na capa: gancho centralizado em y=795, Inter 108 px e Playfair Display Italic 128 px. A imagem do bebê começa em y=0 com altura 920 px e deslocamento interno -100 px. A legenda mantém centro y=830 e as fontes menores aprovadas. Não colocar texto sobre os rostos.
+- Legenda centralizada em y=830, largura útil 862 px, até duas linhas. Ajustar também o enquadramento vertical do apoio para que o rosto permaneça acima da área de texto.
+- Base Inter 800 em torno de 66 px; palavras de destaque Playfair Display Italic 400 em torno de 82 px. Ajustar proporcionalmente ao layout e à largura real, não aumentar destaque 3,5× por padrão.
+- Marca-texto #FFDBD5 com texto #1F4B7A; apenas a palavra ativa tem fundo. Não alterar fonte/peso no instante de ativar a palavra: isso muda largura e faz a legenda saltar.
+- Ajustar a escala à imagem original, mantendo pouco espaço acima da cabeça. Na V4, escala 1,62–1,665, origem superior central e deslocamento vertical -180 px no painel de 1000 px. Pan horizontal até 10 px. Conferir visualmente antes de reutilizar esses números em outro vídeo.
+
+A estética da amostra `src/MaduV6.tsx` foi aprovada por Sarah para aplicação ao vídeo inteiro. A composição completa está em `src/MaduCompleto.tsx`, no projeto `/Users/sarahbrandao/Documents/ChatGPT/Edição de Vídeos/meu-primeiro-projeto`. Cortes, palavras e apoios permanecem em `out/completo/timeline.json`.
+
+Fontes locais: Inter-VF.ttf na pasta assets da skill original Madu; PlayfairDisplay-Italic.ttf em ~/Library/Fonts. Verificar formato real com file/fontTools: nesta máquina um arquivo chamado Inter-ExtraBold.otf contém HTML, não uma fonte. Usar arquivos válidos, carregar explicitamente e aguardar as fontes antes de renderizar.
