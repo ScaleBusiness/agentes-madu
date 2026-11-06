@@ -26,12 +26,8 @@
 
 ## Senhas do dash
 
-| Perfil | Senha |
-|---|---|
-| Mentorada | `sleepy2026` |
-| Admin (Sarah) | `sb-admin-2026` |
-
-Trocáveis no topo do `<script>` do `dash/index.html` (`SENHA_ALUNA` / `SENHA_ADMIN`).
+As senhas são definidas no topo do `<script>` do `dash/index.html` (`SENHA_ALUNA` / `SENHA_ADMIN`).
+Peça as senhas diretamente para a Sarah.
 
 ## O que já está no dash
 

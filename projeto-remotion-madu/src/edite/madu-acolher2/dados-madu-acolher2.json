@@ -1,0 +1,787 @@
+{
+ "duracao": 29.79,
+ "cortes": [
+  {
+   "video": "madu-acolher2/video/take-9285.mp4",
+   "de": 1.39,
+   "ate": 7.76,
+   "saida": 0.0
+  },
+  {
+   "video": "madu-acolher2/video/take-9291.mp4",
+   "de": 1.5,
+   "ate": 3.41,
+   "saida": 6.37
+  },
+  {
+   "video": "madu-acolher2/video/take-9291.mp4",
+   "de": 3.77,
+   "ate": 6.43,
+   "saida": 8.28
+  },
+  {
+   "video": "madu-acolher2/video/take-9291.mp4",
+   "de": 6.77,
+   "ate": 9.83,
+   "saida": 10.94
+  },
+  {
+   "video": "madu-acolher2/video/take-9288.mp4",
+   "de": 1.91,
+   "ate": 4.66,
+   "saida": 14.0
+  },
+  {
+   "video": "madu-acolher2/video/take-9288.mp4",
+   "de": 4.89,
+   "ate": 8.67,
+   "saida": 16.75
+  },
+  {
+   "video": "madu-acolher2/video/take-9288.mp4",
+   "de": 9.38,
+   "ate": 11.41,
+   "saida": 20.53
+  },
+  {
+   "video": "madu-acolher2/video/take-9288.mp4",
+   "de": 61.18,
+   "ate": 64.43,
+   "saida": 22.56
+  },
+  {
+   "video": "madu-acolher2/video/take-9288.mp4",
+   "de": 64.63,
+   "ate": 68.61,
+   "saida": 25.81
+  }
+ ],
+ "grupos": [
+  {
+   "inicio": 0.0,
+   "fim": 0.91,
+   "palavras": [
+    {
+     "texto": "Calar",
+     "inicio": 0.0,
+     "fim": 0.39,
+     "destaque": false
+    },
+    {
+     "texto": "o",
+     "inicio": 0.39,
+     "fim": 0.57,
+     "destaque": false
+    },
+    {
+     "texto": "choro",
+     "inicio": 0.57,
+     "fim": 0.91,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 0.91,
+   "fim": 2.15,
+   "palavras": [
+    {
+     "texto": "é",
+     "inicio": 0.91,
+     "fim": 1.15,
+     "destaque": false
+    },
+    {
+     "texto": "tentar",
+     "inicio": 1.15,
+     "fim": 1.51,
+     "destaque": false
+    },
+    {
+     "texto": "de",
+     "inicio": 1.51,
+     "fim": 1.87,
+     "destaque": false
+    },
+    {
+     "texto": "tudo,",
+     "inicio": 1.87,
+     "fim": 2.15,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 2.47,
+   "fim": 3.09,
+   "palavras": [
+    {
+     "texto": "o",
+     "inicio": 2.47,
+     "fim": 2.49,
+     "destaque": false
+    },
+    {
+     "texto": "mais",
+     "inicio": 2.49,
+     "fim": 2.79,
+     "destaque": false
+    },
+    {
+     "texto": "rápido",
+     "inicio": 2.79,
+     "fim": 3.09,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 3.09,
+   "fim": 3.63,
+   "palavras": [
+    {
+     "texto": "possível,",
+     "inicio": 3.09,
+     "fim": 3.63,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 3.85,
+   "fim": 4.59,
+   "palavras": [
+    {
+     "texto": "para",
+     "inicio": 3.85,
+     "fim": 3.93,
+     "destaque": false
+    },
+    {
+     "texto": "que",
+     "inicio": 3.93,
+     "fim": 4.03,
+     "destaque": false
+    },
+    {
+     "texto": "ele",
+     "inicio": 4.03,
+     "fim": 4.31,
+     "destaque": false
+    },
+    {
+     "texto": "pare",
+     "inicio": 4.31,
+     "fim": 4.59,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 4.59,
+   "fim": 5.81,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 4.59,
+     "fim": 4.97,
+     "destaque": false
+    },
+    {
+     "texto": "volte",
+     "inicio": 4.97,
+     "fim": 5.29,
+     "destaque": false
+    },
+    {
+     "texto": "rápido",
+     "inicio": 5.29,
+     "fim": 5.81,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 5.81,
+   "fim": 29.79,
+   "palavras": [
+    {
+     "texto": "a",
+     "inicio": 5.81,
+     "fim": 6.01,
+     "destaque": false
+    },
+    {
+     "texto": "dormir.",
+     "inicio": 6.01,
+     "fim": 29.79,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 6.59,
+   "fim": 7.11,
+   "palavras": [
+    {
+     "texto": "Acolher",
+     "inicio": 6.59,
+     "fim": 7.11,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 7.11,
+   "fim": 8.25,
+   "palavras": [
+    {
+     "texto": "é",
+     "inicio": 7.11,
+     "fim": 7.31,
+     "destaque": false
+    },
+    {
+     "texto": "estar",
+     "inicio": 7.31,
+     "fim": 7.59,
+     "destaque": false
+    },
+    {
+     "texto": "presente,",
+     "inicio": 7.59,
+     "fim": 8.25,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 8.33,
+   "fim": 9.37,
+   "palavras": [
+    {
+     "texto": "com",
+     "inicio": 8.33,
+     "fim": 8.47,
+     "destaque": false
+    },
+    {
+     "texto": "voz",
+     "inicio": 8.47,
+     "fim": 8.69,
+     "destaque": false
+    },
+    {
+     "texto": "calma,",
+     "inicio": 8.69,
+     "fim": 9.37,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 9.55,
+   "fim": 10.23,
+   "palavras": [
+    {
+     "texto": "dando",
+     "inicio": 9.55,
+     "fim": 9.69,
+     "destaque": false
+    },
+    {
+     "texto": "toque",
+     "inicio": 9.69,
+     "fim": 10.23,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 10.23,
+   "fim": 10.91,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 10.23,
+     "fim": 10.39,
+     "destaque": false
+    },
+    {
+     "texto": "segurança,",
+     "inicio": 10.39,
+     "fim": 10.91,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 11.05,
+   "fim": 11.79,
+   "palavras": [
+    {
+     "texto": "dando",
+     "inicio": 11.05,
+     "fim": 11.21,
+     "destaque": false
+    },
+    {
+     "texto": "espaço",
+     "inicio": 11.21,
+     "fim": 11.79,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 11.79,
+   "fim": 12.55,
+   "palavras": [
+    {
+     "texto": "para",
+     "inicio": 11.79,
+     "fim": 11.97,
+     "destaque": false
+    },
+    {
+     "texto": "o",
+     "inicio": 11.97,
+     "fim": 12.03,
+     "destaque": false
+    },
+    {
+     "texto": "seu",
+     "inicio": 12.03,
+     "fim": 12.27,
+     "destaque": false
+    },
+    {
+     "texto": "filho",
+     "inicio": 12.27,
+     "fim": 12.55,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 12.55,
+   "fim": 13.47,
+   "palavras": [
+    {
+     "texto": "aprender",
+     "inicio": 12.55,
+     "fim": 13.11,
+     "destaque": false
+    },
+    {
+     "texto": "a",
+     "inicio": 13.11,
+     "fim": 13.29,
+     "destaque": false
+    },
+    {
+     "texto": "voltar",
+     "inicio": 13.29,
+     "fim": 13.47,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 13.47,
+   "fim": 13.97,
+   "palavras": [
+    {
+     "texto": "ao",
+     "inicio": 13.47,
+     "fim": 13.75,
+     "destaque": false
+    },
+    {
+     "texto": "sono.",
+     "inicio": 13.75,
+     "fim": 13.97,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 14.0,
+   "fim": 15.23,
+   "palavras": [
+    {
+     "texto": "Ele",
+     "inicio": 14.0,
+     "fim": 14.17,
+     "destaque": false
+    },
+    {
+     "texto": "pode",
+     "inicio": 14.17,
+     "fim": 14.59,
+     "destaque": false
+    },
+    {
+     "texto": "protestar",
+     "inicio": 14.59,
+     "fim": 15.23,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 15.23,
+   "fim": 16.61,
+   "palavras": [
+    {
+     "texto": "diante",
+     "inicio": 15.23,
+     "fim": 15.67,
+     "destaque": false
+    },
+    {
+     "texto": "de",
+     "inicio": 15.67,
+     "fim": 15.89,
+     "destaque": false
+    },
+    {
+     "texto": "uma",
+     "inicio": 15.89,
+     "fim": 16.01,
+     "destaque": false
+    },
+    {
+     "texto": "mudança",
+     "inicio": 16.01,
+     "fim": 16.61,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 16.61,
+   "fim": 17.62,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 16.61,
+     "fim": 16.96,
+     "destaque": false
+    },
+    {
+     "texto": "mesmo",
+     "inicio": 16.96,
+     "fim": 17.32,
+     "destaque": false
+    },
+    {
+     "texto": "assim",
+     "inicio": 17.32,
+     "fim": 17.62,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 17.62,
+   "fim": 18.56,
+   "palavras": [
+    {
+     "texto": "se",
+     "inicio": 17.62,
+     "fim": 17.74,
+     "destaque": false
+    },
+    {
+     "texto": "sentir",
+     "inicio": 17.74,
+     "fim": 18.04,
+     "destaque": false
+    },
+    {
+     "texto": "seguro",
+     "inicio": 18.04,
+     "fim": 18.56,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 18.56,
+   "fim": 19.18,
+   "palavras": [
+    {
+     "texto": "porque",
+     "inicio": 18.56,
+     "fim": 18.92,
+     "destaque": false
+    },
+    {
+     "texto": "você",
+     "inicio": 18.92,
+     "fim": 19.18,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 19.18,
+   "fim": 20.5,
+   "palavras": [
+    {
+     "texto": "está",
+     "inicio": 19.18,
+     "fim": 19.58,
+     "destaque": false
+    },
+    {
+     "texto": "ali",
+     "inicio": 19.58,
+     "fim": 20.0,
+     "destaque": false
+    },
+    {
+     "texto": "com",
+     "inicio": 20.0,
+     "fim": 20.24,
+     "destaque": false
+    },
+    {
+     "texto": "ele.",
+     "inicio": 20.24,
+     "fim": 20.5,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 20.53,
+   "fim": 21.35,
+   "palavras": [
+    {
+     "texto": "Choro",
+     "inicio": 20.53,
+     "fim": 20.83,
+     "destaque": true
+    },
+    {
+     "texto": "acolhido",
+     "inicio": 20.83,
+     "fim": 21.35,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 21.35,
+   "fim": 22.53,
+   "palavras": [
+    {
+     "texto": "não",
+     "inicio": 21.35,
+     "fim": 21.71,
+     "destaque": false
+    },
+    {
+     "texto": "é",
+     "inicio": 21.71,
+     "fim": 21.91,
+     "destaque": false
+    },
+    {
+     "texto": "abandono.",
+     "inicio": 21.91,
+     "fim": 22.53,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 22.56,
+   "fim": 23.66,
+   "palavras": [
+    {
+     "texto": "Se",
+     "inicio": 22.56,
+     "fim": 22.6,
+     "destaque": false
+    },
+    {
+     "texto": "o",
+     "inicio": 22.6,
+     "fim": 22.72,
+     "destaque": false
+    },
+    {
+     "texto": "medo",
+     "inicio": 22.72,
+     "fim": 23.02,
+     "destaque": true
+    },
+    {
+     "texto": "do",
+     "inicio": 23.02,
+     "fim": 23.2,
+     "destaque": true
+    },
+    {
+     "texto": "choro",
+     "inicio": 23.2,
+     "fim": 23.66,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 23.66,
+   "fim": 24.46,
+   "palavras": [
+    {
+     "texto": "te",
+     "inicio": 23.66,
+     "fim": 23.96,
+     "destaque": false
+    },
+    {
+     "texto": "impede",
+     "inicio": 23.96,
+     "fim": 24.46,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 24.46,
+   "fim": 25.78,
+   "palavras": [
+    {
+     "texto": "de",
+     "inicio": 24.46,
+     "fim": 24.68,
+     "destaque": false
+    },
+    {
+     "texto": "trazer",
+     "inicio": 24.68,
+     "fim": 24.92,
+     "destaque": false
+    },
+    {
+     "texto": "mudanças,",
+     "inicio": 24.92,
+     "fim": 25.78,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 25.84,
+   "fim": 26.24,
+   "palavras": [
+    {
+     "texto": "Comente",
+     "inicio": 25.84,
+     "fim": 26.24,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 26.24,
+   "fim": 26.62,
+   "palavras": [
+    {
+     "texto": "QUERO",
+     "inicio": 26.24,
+     "fim": 26.62,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 26.62,
+   "fim": 27.36,
+   "palavras": [
+    {
+     "texto": "que",
+     "inicio": 26.62,
+     "fim": 26.86,
+     "destaque": false
+    },
+    {
+     "texto": "eu",
+     "inicio": 26.86,
+     "fim": 26.94,
+     "destaque": false
+    },
+    {
+     "texto": "te",
+     "inicio": 26.94,
+     "fim": 27.02,
+     "destaque": false
+    },
+    {
+     "texto": "explique",
+     "inicio": 27.02,
+     "fim": 27.36,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 27.36,
+   "fim": 28.68,
+   "palavras": [
+    {
+     "texto": "como",
+     "inicio": 27.36,
+     "fim": 27.62,
+     "destaque": false
+    },
+    {
+     "texto": "eu",
+     "inicio": 27.62,
+     "fim": 27.8,
+     "destaque": false
+    },
+    {
+     "texto": "conduzo",
+     "inicio": 27.8,
+     "fim": 28.4,
+     "destaque": false
+    },
+    {
+     "texto": "isso",
+     "inicio": 28.4,
+     "fim": 28.68,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 28.68,
+   "fim": 29.76,
+   "palavras": [
+    {
+     "texto": "na",
+     "inicio": 28.68,
+     "fim": 28.9,
+     "destaque": false
+    },
+    {
+     "texto": "Consultoria",
+     "inicio": 28.9,
+     "fim": 29.52,
+     "destaque": true
+    },
+    {
+     "texto": "Sleepy.",
+     "inicio": 29.52,
+     "fim": 29.76,
+     "destaque": true
+    }
+   ]
+  }
+ ]
+}

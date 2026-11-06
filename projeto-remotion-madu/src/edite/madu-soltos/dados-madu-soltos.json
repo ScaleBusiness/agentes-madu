@@ -1,0 +1,1423 @@
+{
+ "duracao": 60.13,
+ "cortes": [
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 2.27,
+   "ate": 4.74,
+   "saida": 0.0
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 4.99,
+   "ate": 8.71,
+   "saida": 2.47
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 9.49,
+   "ate": 12.77,
+   "saida": 6.19
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 12.89,
+   "ate": 15.79,
+   "saida": 9.47
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 16.18,
+   "ate": 21.07,
+   "saida": 12.37
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 21.37,
+   "ate": 26.89,
+   "saida": 17.26
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 27.27,
+   "ate": 29.25,
+   "saida": 22.78
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 123.9,
+   "ate": 130.19,
+   "saida": 24.76
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 130.4,
+   "ate": 132.17,
+   "saida": 31.05
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 169.3,
+   "ate": 170.65,
+   "saida": 32.82
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 170.72,
+   "ate": 173.55,
+   "saida": 34.17
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 180.77,
+   "ate": 186.6,
+   "saida": 37.0
+  },
+  {
+   "video": "madu-soltos/video/take-8872.mp4",
+   "de": 259.17,
+   "ate": 263.95,
+   "saida": 42.83
+  },
+  {
+   "video": "madu-soltos/video/take-8875.mp4",
+   "de": 1.79,
+   "ate": 6.08,
+   "saida": 47.61
+  },
+  {
+   "video": "madu-soltos/video/take-8875.mp4",
+   "de": 6.5,
+   "ate": 7.54,
+   "saida": 51.9
+  },
+  {
+   "video": "madu-soltos/video/take-8875.mp4",
+   "de": 7.62,
+   "ate": 9.49,
+   "saida": 52.94
+  },
+  {
+   "video": "madu-soltos/video/take-8875.mp4",
+   "de": 9.71,
+   "ate": 15.03,
+   "saida": 54.81
+  }
+ ],
+ "grupos": [
+  {
+   "inicio": 0.03,
+   "fim": 0.95,
+   "palavras": [
+    {
+     "texto": "Esse",
+     "inicio": 0.03,
+     "fim": 0.59,
+     "destaque": false
+    },
+    {
+     "texto": "é",
+     "inicio": 0.59,
+     "fim": 0.71,
+     "destaque": false
+    },
+    {
+     "texto": "o",
+     "inicio": 0.71,
+     "fim": 0.77,
+     "destaque": false
+    },
+    {
+     "texto": "seu",
+     "inicio": 0.77,
+     "fim": 0.95,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 0.95,
+   "fim": 2.27,
+   "palavras": [
+    {
+     "texto": "primeiro",
+     "inicio": 0.95,
+     "fim": 1.39,
+     "destaque": false
+    },
+    {
+     "texto": "plano",
+     "inicio": 1.39,
+     "fim": 1.65,
+     "destaque": true
+    },
+    {
+     "texto": "de",
+     "inicio": 1.65,
+     "fim": 1.99,
+     "destaque": true
+    },
+    {
+     "texto": "sono",
+     "inicio": 1.99,
+     "fim": 2.27,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 2.27,
+   "fim": 3.76,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 2.27,
+     "fim": 2.68,
+     "destaque": false
+    },
+    {
+     "texto": "é",
+     "inicio": 2.68,
+     "fim": 2.94,
+     "destaque": false
+    },
+    {
+     "texto": "importante",
+     "inicio": 2.94,
+     "fim": 3.3,
+     "destaque": false
+    },
+    {
+     "texto": "entender",
+     "inicio": 3.3,
+     "fim": 3.76,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 3.76,
+   "fim": 5.12,
+   "palavras": [
+    {
+     "texto": "que",
+     "inicio": 3.76,
+     "fim": 3.98,
+     "destaque": false
+    },
+    {
+     "texto": "ele",
+     "inicio": 3.98,
+     "fim": 4.24,
+     "destaque": false
+    },
+    {
+     "texto": "não",
+     "inicio": 4.24,
+     "fim": 4.56,
+     "destaque": false
+    },
+    {
+     "texto": "começa",
+     "inicio": 4.56,
+     "fim": 5.12,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 5.12,
+   "fim": 6.19,
+   "palavras": [
+    {
+     "texto": "pela",
+     "inicio": 5.12,
+     "fim": 5.5,
+     "destaque": false
+    },
+    {
+     "texto": "madrugada.",
+     "inicio": 5.5,
+     "fim": 6.19,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 6.44,
+   "fim": 6.72,
+   "palavras": [
+    {
+     "texto": "A",
+     "inicio": 6.44,
+     "fim": 6.52,
+     "destaque": false
+    },
+    {
+     "texto": "gente",
+     "inicio": 6.52,
+     "fim": 6.72,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 6.72,
+   "fim": 7.84,
+   "palavras": [
+    {
+     "texto": "começa",
+     "inicio": 6.72,
+     "fim": 7.38,
+     "destaque": false
+    },
+    {
+     "texto": "a",
+     "inicio": 7.38,
+     "fim": 7.44,
+     "destaque": false
+    },
+    {
+     "texto": "olhar",
+     "inicio": 7.44,
+     "fim": 7.84,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 7.84,
+   "fim": 9.44,
+   "palavras": [
+    {
+     "texto": "o",
+     "inicio": 7.84,
+     "fim": 8.18,
+     "destaque": false
+    },
+    {
+     "texto": "sono",
+     "inicio": 8.18,
+     "fim": 8.4,
+     "destaque": false
+    },
+    {
+     "texto": "como",
+     "inicio": 8.4,
+     "fim": 8.76,
+     "destaque": false
+    },
+    {
+     "texto": "um",
+     "inicio": 8.76,
+     "fim": 8.98,
+     "destaque": false
+    },
+    {
+     "texto": "todo,",
+     "inicio": 8.98,
+     "fim": 9.44,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 9.54,
+   "fim": 10.48,
+   "palavras": [
+    {
+     "texto": "baseando",
+     "inicio": 9.54,
+     "fim": 10.28,
+     "destaque": false
+    },
+    {
+     "texto": "nos",
+     "inicio": 10.28,
+     "fim": 10.48,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 10.48,
+   "fim": 11.24,
+   "palavras": [
+    {
+     "texto": "quatro",
+     "inicio": 10.48,
+     "fim": 10.86,
+     "destaque": true
+    },
+    {
+     "texto": "pilares",
+     "inicio": 10.86,
+     "fim": 11.24,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 11.24,
+   "fim": 12.34,
+   "palavras": [
+    {
+     "texto": "de",
+     "inicio": 11.24,
+     "fim": 11.48,
+     "destaque": false
+    },
+    {
+     "texto": "equilíbrio",
+     "inicio": 11.48,
+     "fim": 11.76,
+     "destaque": false
+    },
+    {
+     "texto": "do",
+     "inicio": 11.76,
+     "fim": 12.06,
+     "destaque": false
+    },
+    {
+     "texto": "sono:",
+     "inicio": 12.06,
+     "fim": 12.34,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 12.43,
+   "fim": 13.61,
+   "palavras": [
+    {
+     "texto": "o",
+     "inicio": 12.43,
+     "fim": 12.61,
+     "destaque": false
+    },
+    {
+     "texto": "ritmo",
+     "inicio": 12.61,
+     "fim": 13.01,
+     "destaque": true
+    },
+    {
+     "texto": "sereno,",
+     "inicio": 13.01,
+     "fim": 13.61,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 13.79,
+   "fim": 14.81,
+   "palavras": [
+    {
+     "texto": "o",
+     "inicio": 13.79,
+     "fim": 13.93,
+     "destaque": false
+    },
+    {
+     "texto": "ninho",
+     "inicio": 13.93,
+     "fim": 14.17,
+     "destaque": true
+    },
+    {
+     "texto": "perfeito,",
+     "inicio": 14.17,
+     "fim": 14.81,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 14.93,
+   "fim": 15.87,
+   "palavras": [
+    {
+     "texto": "o",
+     "inicio": 14.93,
+     "fim": 15.09,
+     "destaque": false
+    },
+    {
+     "texto": "afeto",
+     "inicio": 15.09,
+     "fim": 15.37,
+     "destaque": true
+    },
+    {
+     "texto": "e",
+     "inicio": 15.37,
+     "fim": 15.47,
+     "destaque": true
+    },
+    {
+     "texto": "emoções",
+     "inicio": 15.47,
+     "fim": 15.87,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 15.87,
+   "fim": 17.23,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 15.87,
+     "fim": 16.01,
+     "destaque": false
+    },
+    {
+     "texto": "os",
+     "inicio": 16.01,
+     "fim": 16.13,
+     "destaque": false
+    },
+    {
+     "texto": "hábitos",
+     "inicio": 16.13,
+     "fim": 16.55,
+     "destaque": true
+    },
+    {
+     "texto": "positivos.",
+     "inicio": 16.55,
+     "fim": 17.23,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 17.31,
+   "fim": 18.29,
+   "palavras": [
+    {
+     "texto": "Em",
+     "inicio": 17.31,
+     "fim": 17.57,
+     "destaque": false
+    },
+    {
+     "texto": "cada",
+     "inicio": 17.57,
+     "fim": 17.83,
+     "destaque": false
+    },
+    {
+     "texto": "etapa",
+     "inicio": 17.83,
+     "fim": 18.29,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 18.29,
+   "fim": 19.25,
+   "palavras": [
+    {
+     "texto": "da",
+     "inicio": 18.29,
+     "fim": 18.59,
+     "destaque": false
+    },
+    {
+     "texto": "consultoria,",
+     "inicio": 18.59,
+     "fim": 19.25,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 19.31,
+   "fim": 20.51,
+   "palavras": [
+    {
+     "texto": "a",
+     "inicio": 19.31,
+     "fim": 19.43,
+     "destaque": false
+    },
+    {
+     "texto": "gente",
+     "inicio": 19.43,
+     "fim": 19.59,
+     "destaque": false
+    },
+    {
+     "texto": "vai",
+     "inicio": 19.59,
+     "fim": 19.95,
+     "destaque": false
+    },
+    {
+     "texto": "estruturar",
+     "inicio": 19.95,
+     "fim": 20.51,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 20.51,
+   "fim": 21.25,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 20.51,
+     "fim": 20.73,
+     "destaque": false
+    },
+    {
+     "texto": "ajustar",
+     "inicio": 20.73,
+     "fim": 21.25,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 21.25,
+   "fim": 22.67,
+   "palavras": [
+    {
+     "texto": "pontos",
+     "inicio": 21.25,
+     "fim": 21.79,
+     "destaque": false
+    },
+    {
+     "texto": "importantes",
+     "inicio": 21.79,
+     "fim": 22.67,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 22.67,
+   "fim": 24.73,
+   "palavras": [
+    {
+     "texto": "de",
+     "inicio": 22.67,
+     "fim": 23.05,
+     "destaque": false
+    },
+    {
+     "texto": "cada",
+     "inicio": 23.05,
+     "fim": 23.53,
+     "destaque": false
+    },
+    {
+     "texto": "pilar",
+     "inicio": 23.53,
+     "fim": 23.89,
+     "destaque": true
+    },
+    {
+     "texto": "do",
+     "inicio": 23.89,
+     "fim": 24.17,
+     "destaque": false
+    },
+    {
+     "texto": "sono.",
+     "inicio": 24.17,
+     "fim": 24.73,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 24.94,
+   "fim": 26.5,
+   "palavras": [
+    {
+     "texto": "A",
+     "inicio": 24.94,
+     "fim": 24.96,
+     "destaque": false
+    },
+    {
+     "texto": "gente",
+     "inicio": 24.96,
+     "fim": 25.26,
+     "destaque": false
+    },
+    {
+     "texto": "nunca",
+     "inicio": 25.26,
+     "fim": 25.92,
+     "destaque": false
+    },
+    {
+     "texto": "pode",
+     "inicio": 25.92,
+     "fim": 26.5,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 26.5,
+   "fim": 27.34,
+   "palavras": [
+    {
+     "texto": "ignorar",
+     "inicio": 26.5,
+     "fim": 27.34,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 27.34,
+   "fim": 28.9,
+   "palavras": [
+    {
+     "texto": "as",
+     "inicio": 27.34,
+     "fim": 27.56,
+     "destaque": false
+    },
+    {
+     "texto": "emoções",
+     "inicio": 27.56,
+     "fim": 28.16,
+     "destaque": false
+    },
+    {
+     "texto": "de",
+     "inicio": 28.16,
+     "fim": 28.34,
+     "destaque": false
+    },
+    {
+     "texto": "um",
+     "inicio": 28.34,
+     "fim": 28.48,
+     "destaque": false
+    },
+    {
+     "texto": "bebê",
+     "inicio": 28.48,
+     "fim": 28.9,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 28.9,
+   "fim": 29.96,
+   "palavras": [
+    {
+     "texto": "e",
+     "inicio": 28.9,
+     "fim": 29.2,
+     "destaque": false
+    },
+    {
+     "texto": "principalmente",
+     "inicio": 29.2,
+     "fim": 29.96,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 29.96,
+   "fim": 31.02,
+   "palavras": [
+    {
+     "texto": "da",
+     "inicio": 29.96,
+     "fim": 30.26,
+     "destaque": false
+    },
+    {
+     "texto": "mãe,",
+     "inicio": 30.26,
+     "fim": 30.48,
+     "destaque": true
+    },
+    {
+     "texto": "do",
+     "inicio": 30.6,
+     "fim": 30.8,
+     "destaque": false
+    },
+    {
+     "texto": "pai,",
+     "inicio": 30.8,
+     "fim": 31.02,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 31.23,
+   "fim": 31.81,
+   "palavras": [
+    {
+     "texto": "das",
+     "inicio": 31.23,
+     "fim": 31.29,
+     "destaque": false
+    },
+    {
+     "texto": "pessoas",
+     "inicio": 31.29,
+     "fim": 31.81,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 31.81,
+   "fim": 32.82,
+   "palavras": [
+    {
+     "texto": "ali",
+     "inicio": 31.81,
+     "fim": 32.21,
+     "destaque": false
+    },
+    {
+     "texto": "envolvidas.",
+     "inicio": 32.21,
+     "fim": 32.82,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 33.0,
+   "fim": 34.17,
+   "palavras": [
+    {
+     "texto": "Hábitos",
+     "inicio": 33.0,
+     "fim": 33.6,
+     "destaque": true
+    },
+    {
+     "texto": "positivos:",
+     "inicio": 33.6,
+     "fim": 34.17,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 34.19,
+   "fim": 35.15,
+   "palavras": [
+    {
+     "texto": "só",
+     "inicio": 34.19,
+     "fim": 34.49,
+     "destaque": false
+    },
+    {
+     "texto": "que",
+     "inicio": 34.49,
+     "fim": 34.69,
+     "destaque": false
+    },
+    {
+     "texto": "realmente",
+     "inicio": 34.69,
+     "fim": 35.15,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 35.15,
+   "fim": 36.07,
+   "palavras": [
+    {
+     "texto": "a",
+     "inicio": 35.15,
+     "fim": 35.23,
+     "destaque": false
+    },
+    {
+     "texto": "gente",
+     "inicio": 35.23,
+     "fim": 35.49,
+     "destaque": false
+    },
+    {
+     "texto": "chega",
+     "inicio": 35.49,
+     "fim": 36.07,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 36.07,
+   "fim": 36.97,
+   "palavras": [
+    {
+     "texto": "na",
+     "inicio": 36.07,
+     "fim": 36.53,
+     "destaque": false
+    },
+    {
+     "texto": "noite.",
+     "inicio": 36.53,
+     "fim": 36.97,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 37.03,
+   "fim": 37.65,
+   "palavras": [
+    {
+     "texto": "São",
+     "inicio": 37.03,
+     "fim": 37.25,
+     "destaque": false
+    },
+    {
+     "texto": "ajustes",
+     "inicio": 37.25,
+     "fim": 37.65,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 37.65,
+   "fim": 38.41,
+   "palavras": [
+    {
+     "texto": "muito",
+     "inicio": 37.65,
+     "fim": 37.97,
+     "destaque": false
+    },
+    {
+     "texto": "pequenos,",
+     "inicio": 37.97,
+     "fim": 38.41,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 38.41,
+   "fim": 39.23,
+   "palavras": [
+    {
+     "texto": "mas",
+     "inicio": 38.41,
+     "fim": 38.61,
+     "destaque": false
+    },
+    {
+     "texto": "que",
+     "inicio": 38.61,
+     "fim": 38.75,
+     "destaque": false
+    },
+    {
+     "texto": "já",
+     "inicio": 38.75,
+     "fim": 38.93,
+     "destaque": false
+    },
+    {
+     "texto": "trazem",
+     "inicio": 38.93,
+     "fim": 39.23,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 39.23,
+   "fim": 40.21,
+   "palavras": [
+    {
+     "texto": "grandes",
+     "inicio": 39.23,
+     "fim": 39.69,
+     "destaque": false
+    },
+    {
+     "texto": "diferenças",
+     "inicio": 39.69,
+     "fim": 40.21,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 40.21,
+   "fim": 41.83,
+   "palavras": [
+    {
+     "texto": "nessa",
+     "inicio": 40.21,
+     "fim": 40.61,
+     "destaque": false
+    },
+    {
+     "texto": "previsibilidade",
+     "inicio": 40.61,
+     "fim": 41.83,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 41.83,
+   "fim": 42.83,
+   "palavras": [
+    {
+     "texto": "que",
+     "inicio": 41.83,
+     "fim": 42.05,
+     "destaque": false
+    },
+    {
+     "texto": "ele",
+     "inicio": 42.05,
+     "fim": 42.31,
+     "destaque": false
+    },
+    {
+     "texto": "precisa.",
+     "inicio": 42.31,
+     "fim": 42.83,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 42.9,
+   "fim": 43.86,
+   "palavras": [
+    {
+     "texto": "Vocês",
+     "inicio": 42.9,
+     "fim": 43.16,
+     "destaque": false
+    },
+    {
+     "texto": "vão",
+     "inicio": 43.16,
+     "fim": 43.34,
+     "destaque": false
+    },
+    {
+     "texto": "me",
+     "inicio": 43.34,
+     "fim": 43.56,
+     "destaque": false
+    },
+    {
+     "texto": "mandando",
+     "inicio": 43.56,
+     "fim": 43.86,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 43.86,
+   "fim": 45.42,
+   "palavras": [
+    {
+     "texto": "mensagem",
+     "inicio": 43.86,
+     "fim": 44.56,
+     "destaque": false
+    },
+    {
+     "texto": "no",
+     "inicio": 44.56,
+     "fim": 44.8,
+     "destaque": false
+    },
+    {
+     "texto": "nosso",
+     "inicio": 44.8,
+     "fim": 45.04,
+     "destaque": false
+    },
+    {
+     "texto": "grupo,",
+     "inicio": 45.04,
+     "fim": 45.42,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 45.5,
+   "fim": 46.18,
+   "palavras": [
+    {
+     "texto": "eu",
+     "inicio": 45.5,
+     "fim": 45.64,
+     "destaque": false
+    },
+    {
+     "texto": "vou",
+     "inicio": 45.64,
+     "fim": 45.84,
+     "destaque": false
+    },
+    {
+     "texto": "tirando",
+     "inicio": 45.84,
+     "fim": 46.18,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 46.18,
+   "fim": 46.78,
+   "palavras": [
+    {
+     "texto": "as",
+     "inicio": 46.18,
+     "fim": 46.34,
+     "destaque": false
+    },
+    {
+     "texto": "dúvidas",
+     "inicio": 46.34,
+     "fim": 46.78,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 46.78,
+   "fim": 47.61,
+   "palavras": [
+    {
+     "texto": "diariamente.",
+     "inicio": 46.78,
+     "fim": 47.61,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 47.64,
+   "fim": 49.04,
+   "palavras": [
+    {
+     "texto": "Na",
+     "inicio": 47.64,
+     "fim": 48.16,
+     "destaque": false
+    },
+    {
+     "texto": "Consultoria",
+     "inicio": 48.16,
+     "fim": 48.68,
+     "destaque": true
+    },
+    {
+     "texto": "Sleepy,",
+     "inicio": 48.68,
+     "fim": 49.04,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 49.16,
+   "fim": 49.86,
+   "palavras": [
+    {
+     "texto": "que",
+     "inicio": 49.16,
+     "fim": 49.22,
+     "destaque": false
+    },
+    {
+     "texto": "tem",
+     "inicio": 49.22,
+     "fim": 49.4,
+     "destaque": false
+    },
+    {
+     "texto": "duração",
+     "inicio": 49.4,
+     "fim": 49.86,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 49.86,
+   "fim": 51.1,
+   "palavras": [
+    {
+     "texto": "de",
+     "inicio": 49.86,
+     "fim": 50.06,
+     "destaque": false
+    },
+    {
+     "texto": "45",
+     "inicio": 50.06,
+     "fim": 50.66,
+     "destaque": true
+    },
+    {
+     "texto": "dias,",
+     "inicio": 50.66,
+     "fim": 51.1,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 51.24,
+   "fim": 51.9,
+   "palavras": [
+    {
+     "texto": "você",
+     "inicio": 51.24,
+     "fim": 51.44,
+     "destaque": false
+    },
+    {
+     "texto": "recebe",
+     "inicio": 51.44,
+     "fim": 51.9,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 51.92,
+   "fim": 52.86,
+   "palavras": [
+    {
+     "texto": "planos",
+     "inicio": 51.92,
+     "fim": 52.3,
+     "destaque": false
+    },
+    {
+     "texto": "de",
+     "inicio": 52.3,
+     "fim": 52.54,
+     "destaque": false
+    },
+    {
+     "texto": "sono",
+     "inicio": 52.54,
+     "fim": 52.86,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 52.86,
+   "fim": 54.18,
+   "palavras": [
+    {
+     "texto": "com",
+     "inicio": 52.86,
+     "fim": 53.32,
+     "destaque": false
+    },
+    {
+     "texto": "acompanhamento",
+     "inicio": 53.32,
+     "fim": 54.18,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 54.18,
+   "fim": 54.78,
+   "palavras": [
+    {
+     "texto": "diário.",
+     "inicio": 54.18,
+     "fim": 54.78,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 54.84,
+   "fim": 55.64,
+   "palavras": [
+    {
+     "texto": "Se",
+     "inicio": 54.84,
+     "fim": 54.98,
+     "destaque": false
+    },
+    {
+     "texto": "você",
+     "inicio": 54.98,
+     "fim": 55.3,
+     "destaque": false
+    },
+    {
+     "texto": "quer",
+     "inicio": 55.3,
+     "fim": 55.42,
+     "destaque": false
+    },
+    {
+     "texto": "isso",
+     "inicio": 55.42,
+     "fim": 55.64,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 55.64,
+   "fim": 56.6,
+   "palavras": [
+    {
+     "texto": "também",
+     "inicio": 55.64,
+     "fim": 55.9,
+     "destaque": false
+    },
+    {
+     "texto": "para",
+     "inicio": 55.9,
+     "fim": 56.1,
+     "destaque": false
+    },
+    {
+     "texto": "o",
+     "inicio": 56.1,
+     "fim": 56.14,
+     "destaque": false
+    },
+    {
+     "texto": "seu",
+     "inicio": 56.14,
+     "fim": 56.36,
+     "destaque": false
+    },
+    {
+     "texto": "filho,",
+     "inicio": 56.36,
+     "fim": 56.6,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 56.86,
+   "fim": 57.48,
+   "palavras": [
+    {
+     "texto": "Comente",
+     "inicio": 56.86,
+     "fim": 57.12,
+     "destaque": false
+    },
+    {
+     "texto": "aqui",
+     "inicio": 57.12,
+     "fim": 57.48,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 57.48,
+   "fim": 58.28,
+   "palavras": [
+    {
+     "texto": "CONSULTORIA",
+     "inicio": 57.48,
+     "fim": 58.28,
+     "destaque": true
+    }
+   ]
+  },
+  {
+   "inicio": 58.28,
+   "fim": 59.02,
+   "palavras": [
+    {
+     "texto": "que",
+     "inicio": 58.28,
+     "fim": 58.48,
+     "destaque": false
+    },
+    {
+     "texto": "eu",
+     "inicio": 58.48,
+     "fim": 58.62,
+     "destaque": false
+    },
+    {
+     "texto": "te",
+     "inicio": 58.62,
+     "fim": 58.76,
+     "destaque": false
+    },
+    {
+     "texto": "mando",
+     "inicio": 58.76,
+     "fim": 59.02,
+     "destaque": false
+    }
+   ]
+  },
+  {
+   "inicio": 59.02,
+   "fim": 60.1,
+   "palavras": [
+    {
+     "texto": "todas",
+     "inicio": 59.02,
+     "fim": 59.32,
+     "destaque": false
+    },
+    {
+     "texto": "as",
+     "inicio": 59.32,
+     "fim": 59.56,
+     "destaque": false
+    },
+    {
+     "texto": "informações.",
+     "inicio": 59.56,
+     "fim": 60.1,
+     "destaque": true
+    }
+   ]
+  }
+ ]
+}
