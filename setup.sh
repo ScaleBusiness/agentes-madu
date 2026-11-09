@@ -105,6 +105,75 @@ else
     AVISOS=$((AVISOS+1))
 fi
 
+# ── Restaurar linhas de Python/Remotion nas skills de vídeo ──
+# O cp -R acima sobrescreve o SKILL.md com a versão do repo (sem o caminho local).
+# Essas linhas precisam ser re-injetadas após cada instalação.
+
+echo ""
+echo ">> Configurando caminhos de Python e Remotion nas skills de vídeo..."
+
+VENV_PYTHON="$SKILLS_DIR/edite-pro-madu/.venv/bin/python3"
+REMOTION_PATH="$REMOTION_DEST"
+
+MARKER="## Ambiente local"
+
+for skill_md in \
+    "$SKILLS_DIR/edite-pro-madu/SKILL.md" \
+    "$SKILLS_DIR/editordevideos-madu/SKILL.md"
+do
+    if [ -f "$skill_md" ] && ! grep -q "$MARKER" "$skill_md"; then
+        cat >> "$skill_md" <<EOF
+
+$MARKER
+- Python: $VENV_PYTHON
+- Remotion: $REMOTION_PATH
+EOF
+        echo "   ✓ $(basename $(dirname $skill_md))"
+    else
+        echo "   OK $(basename $(dirname $skill_md)) (já configurado)"
+    fi
+done
+
+# ── Chave SSH para o Hostinger ───────────────────
+
+echo ""
+echo ">> Chave SSH para o servidor Hostinger (madudrummond.com)..."
+
+SSH_KEY="$HOME/.ssh/id_ed25519_madu"
+
+if [ ! -f "$SSH_KEY" ]; then
+    ssh-keygen -t ed25519 -C "madu@madudrummond.com" -f "$SSH_KEY" -N "" -q
+    echo "   Chave criada."
+else
+    echo "   Chave já existe."
+fi
+
+# Adicionar ao SSH config se ainda não estiver
+if ! grep -q "Host madudrummond" "$HOME/.ssh/config" 2>/dev/null; then
+    mkdir -p "$HOME/.ssh"
+    cat >> "$HOME/.ssh/config" <<'EOF'
+
+Host madudrummond
+    HostName 179.236.254.65
+    User root
+    IdentityFile ~/.ssh/id_ed25519_madu
+    StrictHostKeyChecking no
+EOF
+    echo "   Host 'madudrummond' adicionado ao SSH config."
+fi
+
+echo ""
+echo "============================================="
+echo "  CHAVE PÚBLICA — adicionar no Hostinger"
+echo "============================================="
+cat "$SSH_KEY.pub"
+echo "============================================="
+echo ""
+echo "  → Acesse: hpanel.hostinger.com"
+echo "    VPS → Configurações → Chaves SSH → + Chave SSH"
+echo "  → Cole o texto acima e salve."
+echo ""
+
 # ── Resultado ─────────────────────────────────────
 
 echo ""
@@ -126,5 +195,8 @@ echo "  /brenda            → atendimento e suporte"
 echo "  /ckm-design        → design de materiais"
 echo ""
 echo "Para atualizar no futuro:"
-echo "  git -C ~/.claude/skills-madu pull && bash ~/.claude/skills-madu/setup.sh"
+echo "  git -C ~/.claude/skills-madu pull && git -C ~/.claude/skills-madu lfs pull && bash ~/.claude/skills-madu/setup.sh"
+echo ""
+echo "Servidor Hostinger:"
+echo "  ssh madudrummond  (após adicionar a chave pública no painel)"
 echo ""
